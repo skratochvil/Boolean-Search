@@ -1,0 +1,24 @@
+<DOC>
+<DOCID>REU001-0110.940701</DOCID>
+<TDTID>TDT000021</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/01/94 13:08</DATE>
+<TITLE> KNIFE FRAGMENT INVESTIGATED IN SIMPSON CASE</TITLE>
+<HEADLINE> KNIFE FRAGMENT INVESTIGATED IN SIMPSON CASE</HEADLINE>
+<SUBJECT> BC-USA-SIMPSON-KNIFE 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Eds: Updates throughout)</NOTES>
+<DATELINE>CHICAGO (Reuter) </DATELINE>
+<P>  A broken carving knife was found in an airline waste disposal tank and investigators were trying to determine if it was related to the O.J. Simpson case, officials said Friday. </P>
+<P> Lisa Howard, a spokeswoman for the Chicago Aviation Department, said part of a handle and about two inches of blade from the knife were found in a tank into which waste is pumped from airliners at O'Hare International Airport. </P>
+<P> Police said the items were being turned over to Los Angeles authorities. </P>
+<P> The tank involved held waste from American Airlines jets. Simpson flew to Chicago from Los Angeles on American in the hours immediately after his ex-wife, Nicole Simpson, and her male friend, Ronald Goldman, were murdered. </P>
+<P> American had no comment on the matter. </P>
+<P> At a preliminary hearing in Los Angeles Thursday a shop keeper testified that the former football star bought a knife with a retractable six-inch blade several weeks before the slayings. </P>
+<P> The knife fragments found in Chicago did not appear to be from a retractable weapon, Howard said. She said the discovery was made after equipment which grinds material in the tank jammed as the tank was undergoing a monthly emptying. </P>
+<P> Los Angeles detectives have made several trips to Chicago, searching the hotel room near O'Hare in which Simpson stayed for less than three hours. They also searched a wooded area near the hotel, saying at the time that they were searching for a knife with a 15-inch blade. </P>
+<P> They removed a blood-stained washcloth and a broken water glass as well as other items from the hotel room, and also found a gym bag and some stockings in the field hear the hotel. Hotel employes have speculated that Simpson cut his hand on the broken glass. </P>
+<P> He had been scheduled to participate in a golf tournament but returned to Los Angeles after being notified of the slayings with which he has since been charged. </P>
+</TEXT>
+</DOC>

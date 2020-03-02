@@ -1,0 +1,23 @@
+<DOC>
+<DOCID>REU001-0154.940701</DOCID>
+<TDTID>TDT000028</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/01/94 16:38</DATE>
+<TITLE> CRACKS FOUND AT NINE NUCLEAR REACTORS</TITLE>
+<HEADLINE> CRACKS FOUND AT NINE NUCLEAR REACTORS</HEADLINE>
+<SUBJECT> BC-NUCLEAR-REACTORS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  Cracks have been found in the core shrouds of nine reactors at U.S. nuclear power plants, but a Nuclear Regulatory Commission spokesman said Friday the cracks do not pose any immediate safety concerns. </P>
+<P> Cracks have been discovered in welds of the core shrouds -- which direct the flow of water inside the reactor -- of nine boiling water reactors in eastern and midwestern states. </P>
+<P> The NRC last month sent notices to all holders of operating licenses or construction permits for boiling-water reactors alerting them of the problems after a 360-degree crack was found in weld at the Dresden Unit 3, a Commonwealth Edison Co plant near Morris, Illinois. </P>
+<P> The NRC notice said a similar 360-degree crack was found at the Quad Cities Unit 1 core shroud near Moline, Illinois, another Commonwealth Edison plant. </P>
+<P> The notice said these cracks were located below the bottom of the fuel, ``suggesting that horizontal welds in all regions of the shroud may be susceptible to stress corrosion cracking.'' </P>
+<P> The NRC said shrouds are completely contained inside the reactor pressure vessels, and the structural integrity of the pressure vessels is not affected by the cracks. </P>
+<P> Cracks also have been found at the Brunswick 1 and 2 reactors near Southport, North Carolina, Peach Bottom 3 near Lancaster, Pennsylvania, Millstone 1 near New London, Connecticut, Hatch 2 near Baxley, Georgia, Fermi 2 near Newport, Michigan, and Browns Ferry 3 near Decatur, Alabama. </P>
+<P> The notice required ``no specific action or written response,'' and an NRC spokesman said the commission ``believes there is no immediate safety concern. We're not ordering anyone to shut down.'' </P>
+<P> The NRC said there are 37 boiling water type reactors in the nation. General Electric Co is the designer of these reactors. </P>
+</TEXT>
+</DOC>

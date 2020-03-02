@@ -1,0 +1,27 @@
+<DOC>
+<DOCID>REU001-0417.940702</DOCID>
+<TDTID>TDT000073</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/02/94 21:34</DATE>
+<TITLE> DC-9 WITH 55 ABOARD CRASHES; 10 REPORTED DEAD</TITLE>
+<HEADLINE> DC-9 WITH 55 ABOARD CRASHES; 10 REPORTED DEAD</HEADLINE>
+<SUBJECT> BC-USA-CRASH 4THLD URGENT </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>CHARLOTTE, NC, (Reuter) </DATELINE>
+<P>  A USAir DC-9 with 55 people on board crashed during a heavy thunderstorm after missing an approach to Charlotte International Airport Saturday, the Federal Aviation Administration said, and at least 10 people were killed, officials said. </P>
+<P> The aviation director at the Charlotte Douglas International Airport, Jerry Orr, confirmed that at least 10 people had died in the crash which occurred during heavy thunderstorms with one-mile visibility. </P>
+<P> The FAA's Kathleen Bergen told reporters that ``the plane came in for a landing, the crew determined that it could not land and the aircraft initiated a go-around to make another attempt.'' </P>
+<P> The flight, USAir 1016, originated in Columbia, South Carolina. </P>
+<P> Bergen said the aircraft crashed into a structure near the airport and that a fire had broken out after the crash. </P>
+<P> Witnesses said they had seen survivors with ``skin dripping off their bones'' after the crash, which occurred at 6:50 p.m. </P>
+<P> A witness said she had seen people running from the aircraft with ``skin dripping off their bones.'' </P>
+<P> ``Their bones were sticking out. There was blood everywhere. Some of them were trying to find their loved ones. They were running, they were sreaming. They couldn't think clearly. They said they were burning inside,'' the eyewitness, Connie Abrams, told NBC. </P>
+<P> A USAir spokesman in Washington, DC confirmed that there had been injuries and said the survivors were being treated at four Charlotte hospitals. </P>
+<P> Local television reported people on the scene as saying the plane's fuselage had broken apart and that there was substantial wreckage in the area of the crash, which occurred at 6:50 p.m. EDT as the plane was making its final approach into Charlotte. </P>
+<P> National Transportation and Safety Board officials were en route to the site of the crash, as was the Secretary of Transportation. </P>
+<P> FAA personnel were listening to recordings of conversations between the flight crew and the airport tower, but the contents were not expected to be available for some weeks. </P>
+<P> Federal safety inspectors were expected to begin an examination of the site Sunday morning. </P>
+</TEXT>
+</DOC>

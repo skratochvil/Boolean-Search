@@ -1,0 +1,26 @@
+<DOC>
+<DOCID>REU001-0384.940702</DOCID>
+<TDTID>TDT000067</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/02/94 17:29</DATE>
+<TITLE> TROPICAL STORM ALBERTO GATHERS STRENGTH</TITLE>
+<HEADLINE> TROPICAL STORM ALBERTO GATHERS STRENGTH</HEADLINE>
+<SUBJECT> BC-USA-STORM 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Eds: New throughout)</NOTES>
+<DATELINE>CORAL GABLES, Fla (Reuter) </DATELINE>
+<P>  Tropical Storm Alberto gathered strength Saturday as it moved toward the coast of northern Florida, and weather forecasters said it could pack hurricane-force winds by the time it hits land Sunday. </P>
+<P> Coastal residents began stocking up on bottled water, canned food and batteries after the National Hurricane Center issued a tropical storm warning for an area stretching from Gulfport, Mississippi to Cedar Key, Florida. </P>
+<P> At 5 p.m. EDT, Alberto was located 225 miles south of Pensacola, Florida, according to the hurricane center. </P>
+<P> Alberto's maximum sustained winds strengthened to 50 miles an hour Saturday afternoon as the storm pushed across the warm waters of the Gulf of Mexico. </P>
+<P> Forecasters said the tropical storm, the first of the season, was moving north at about 12 mph and would likely strike land at midday Sunday. The most likely landfall site is between Mobile, Alabama and Pensacola, Florida, forecasters said. </P>
+<P> ``It's possible (that it could become a hurricane),'' said Bob Sheets, director of the hurricane center. ``Right now we're forecasting just below hurricane strength when it hits land.'' </P>
+<P> A tropical storm becomes a hurricane if its maximum sustained winds top 74 miles an hour. </P>
+<P> Civil defense authorities in Pensacola, on Florida's northern panhandle, began evacuating residents and tourists from low-lying beach areas. </P>
+<P> Grocery stores along the affected coastal area were jammed with people buying bottled water, canned goods and batteries, and long lines formed at gasoline stations. </P>
+<P> Weather forecasters said isolated tornadoes were possible over portions of the Florida panhandle Saturday night, and over Alabama and Georgia Sunday. </P>
+<P> The storm was expected to dump torrential rains of up to 10 inches along its path. </P>
+<P> Alberto formed as a tropical depression off the northern coast of Cuba Thursday morning. Tropical depressions are upgraded to tropical storms when maximum sustained winds reach 39 mph. </P>
+</TEXT>
+</DOC>

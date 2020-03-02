@@ -1,0 +1,25 @@
+<DOC>
+<DOCID>REU001-0188.940701</DOCID>
+<TDTID>TDT000035</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/01/94 19:12</DATE>
+<TITLE> GM RECALLS MINIVANS; CHRYSLER RECALLS DODGE TRUCKS</TITLE>
+<HEADLINE> GM RECALLS MINIVANS; CHRYSLER RECALLS DODGE TRUCKS</HEADLINE>
+<SUBJECT> BC-USA-AUTOS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Eds: also filed to financial desks)</NOTES>
+<DATELINE>DETROIT (Reuter) </DATELINE>
+<P>  General Motors Corp said Friday it was recalling 5,600 1993-94 model Chevrolet Lumina, Pontiac Trans Sport and Oldsmobile Silhouette minivans equipped with a power sliding door and built-in child seats. </P>
+<P> Separately Chrysler Corp, based in Auburn Hills, Michigan, said it was recalling 35,000 1991-93 model Dodge Ram trucks equipped with Cummins diesel engines to inspect the fuel injection pumps. </P>
+<P> GM said its recall, which involves minivans equipped with child seats next to the sliding door, was to correct a defect in a shoulder belt. </P>
+<P> With this specific option combination, GM said the shoulder belt may become pinched between the back of the seat containing the built-in child restraint and an interior trim piece that houses the power sliding door mechanism. </P>
+<P> If this occurs, the shoulder belt may not properly retract, the carmaker said. </P>
+<P> GM is the only company to offer the power-sliding door. </P>
+<P> The company said it was not aware of any accidents or injuries related to the defect. </P>
+<P> To correct the problem, GM said dealers will install a modified interior trim piece that will reroute the seat belt. </P>
+<P> In addition, a caution sticker will also be attached to the child seat warning owners not to move the seat to another Chevrolet Lumina, Pontiac Trans Sport or Oldsmobile Silhouette minivan with the power sliding door. </P>
+<P> Chrysler said the fuel injection pump's fulcrum lever pin, which controls fuel flow, could fail, allowing for increased fuel flow and engine speed. The pumps involved were produced between March 1991 and September 1992. </P>
+<P> In addition, some 1991-93 trucks may have had a suspect fuel pump installed during warranty service and therefore are are included in the notification. Chrysler said there has been one accident and no injuries reported related to the problem. </P>
+</TEXT>
+</DOC>

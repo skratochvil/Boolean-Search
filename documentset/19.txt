@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU001-0219.940702</DOCID>
+<TDTID>TDT000044</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/02/94 01:27</DATE>
+<TITLE> IRAN EXPELS GERMAN CONVICTED OF SPYING</TITLE>
+<HEADLINE> IRAN EXPELS GERMAN CONVICTED OF SPYING</HEADLINE>
+<SUBJECT> BC-IRAN-GERMANY-EXPULSION </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NICOSIA (Reuter) </DATELINE>
+<P>  Iran has expelled a German whom it had pardoned after convicting him of spying, the official Iranian news agency IRNA said Saturday. Germany had said his pardon removed a problem in relations between the two nations. </P>
+<P> ``Helmut Szimkus, the German national who was convicted of espionage activities against Iran, was pardoned and immediately expelled from the country Friday night,'' IRNA said. </P>
+<P> Szimkus, an expert in heavy machinery, was arrested in 1989 and sentenced to death by an Iranian revolutionary court last year on charges of spying for Iraq during its 1980-88 war with Iran. </P>
+<P> His pardon was announced in Tehran and Bonn on June 14, with Iran saying it hoped for a new chapter in ties with Germany. </P>
+<P> Iran has cultivated relations with Germany as part of its efforts to break out of isolation which the United States has been trying to impose. </P>
+<P> Germany was among those at last year's Tokyo summit of the Group of Seven industrialized nations pushing for an end to the policy of containing Iran. Bonn agreed this year to refinance $2.6 billion of Iranian debt. </P>
+</TEXT>
+</DOC>

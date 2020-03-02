@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU001-0450.940703</DOCID>
+<TDTID>TDT000083</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/03/94 04:54</DATE>
+<TITLE> THOUSANDS GREET ARAFAT ON THIRD DAY IN GAZA</TITLE>
+<HEADLINE> THOUSANDS GREET ARAFAT ON THIRD DAY IN GAZA</HEADLINE>
+<SUBJECT> BC-MIDEAST-ARAFAT-GAZA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>GAZA (Reuter) </DATELINE>
+<P>  Thousands of Palestinians cheered PLO chief Yasser Arafat's motorcade Sunday as he began his third day of a historic homecoming to the Gaza Strip, witnesses said. </P>
+<P> The crowds waved flags and posters as his car, escorted by a dozen military vehicles, traveled the two miles from Palestine Square in Gaza City to a citrus factory, his first stop on a full day of visits. </P>
+<P> A member of the Palestinian Authority appointed under the Palestinian Liberation Organization's self-rule deal with Israel said Arafat would also visit a hospital under construction and a college and university in Gaza. </P>
+<P> His visit to the self-rule enclave in Jericho is expected either late Sunday or Monday. </P>
+</TEXT>
+</DOC>

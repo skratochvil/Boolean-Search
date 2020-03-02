@@ -1,0 +1,20 @@
+<DOC>
+<DOCID>REU001-0377.940702</DOCID>
+<TDTID>TDT000064</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/02/94 17:03</DATE>
+<TITLE> PENTAGON SAID CONSIDERING NEW RADARS FOR SEOUL</TITLE>
+<HEADLINE> PENTAGON SAID CONSIDERING NEW RADARS FOR SEOUL</HEADLINE>
+<SUBJECT> BC-KOREA-USA-RADAR </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  The U.S. Defense Department is considering providing South Korea with modern radars to boost its ability to cope with possible North Korean artillery attacks, U.S. News & World Report magazine said Saturday. </P>
+<P> It said that at the urging of Arizona Republican Senator John McCain the Pentagon may soon provide state-of-the-art radars out of Army stocks rather than let Seoul acquire them through the usual channels, which could take months. </P>
+<P> The Q-36 and Q-37 radars detect mortars and artillery that have been fired, permitting prompt counterattack. </P>
+<P> McCain, a member of the Senate Armed Services Committee, is just back from a visit to South Korea. </P>
+<P> North Korea has been embroiled in a dispute with the international community over its suspected nuclear weapons program for over a year. </P>
+<P> The crisis eased when President Clinton announced the United States had agreed to a third round of high-level talks with the North, scheduled to begin in Geneva on July 8, after Pyongyang gave assurances it intends to freeze its nuclear program. </P>
+</TEXT>
+</DOC>

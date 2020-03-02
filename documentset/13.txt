@@ -1,0 +1,17 @@
+<DOC>
+<DOCID>REU001-0160.940701</DOCID>
+<TDTID>TDT000030</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/01/94 16:52</DATE>
+<TITLE> U.S. FIGHTER JET CRASHES IN TEXAS, NO FATALITIES</TITLE>
+<HEADLINE> U.S. FIGHTER JET CRASHES IN TEXAS, NO FATALITIES</HEADLINE>
+<SUBJECT> BC-USA-CRASH 1STLD </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Eds: Updates with crew members suffer minor injuries)</NOTES>
+<DATELINE>SAN ANTONIO (Reuter) </DATELINE>
+<P>  A Texas Air National Guard fighter jet crashed Friday in a remote area of southwest Texas, slightly injuring the two crew members who ejected from the aircraft, military authorities said. </P>
+<P> The McDonnell Douglas F-16B, a two-seat fighter jet known as a ``fighting falcon,'' crashed in an area about 100 miles southwest of Kelly Air Force Base in San Antonio, where the plane was based, base spokeswoman Cynthia Bauer said. </P>
+<P> The pilot and second crew member, who were assigned to the Texas Air National Guard 149th fighter group, were found by search and rescue crews sent to the area after the crash at about 10:20 a.m. CDT , Bauer said. </P>
+</TEXT>
+</DOC>

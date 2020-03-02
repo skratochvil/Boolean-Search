@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU001-0435.940703</DOCID>
+<TDTID>TDT000081</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/03/94 01:18</DATE>
+<TITLE> IRAQ DENIES IRANIAN AYATOLLAH'S CHARGE ON BOMB</TITLE>
+<HEADLINE> IRAQ DENIES IRANIAN AYATOLLAH'S CHARGE ON BOMB</HEADLINE>
+<SUBJECT> BC-IRAQ-IRAN-BOMB </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NICOSIA, Cyprus (Reuter) </DATELINE>
+<P>  Iraq has denied a charge by a senior Iranian ayatollah that President Saddam Hussein personally ordered the bomb explosion which killed 24 people in a Shi'ite Muslim shrine in Iran last month. </P>
+<P> ``The Government of the Republic of Iraq strongly denies the Iranian claims and allegations, and emphasizes it had nothing to do, whether directly or indirectly, with the explosion incident at the Imam Reza shrine in the city of Mashhad on 20 June 1994,'' Baghdad radio said. </P>
+<P> Last Friday, Iranian Ayatollah Ahmad Jannati blamed the Iraq-based Mujahideen Khalq opposition group for carrying out the attack. </P>
+<P> Jannati's remarks in a Friday prayer sermon at Tehran University were the first by a senior Iranian official directly accusing the Iraqi government of ordering the blast. </P>
+</TEXT>
+</DOC>

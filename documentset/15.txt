@@ -1,0 +1,21 @@
+<DOC>
+<DOCID>REU001-0176.940701</DOCID>
+<TDTID>TDT000032</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/01/94 17:52</DATE>
+<TITLE> TROPICAL DEPRESSION UPGRADED TO TROPICAL STORM</TITLE>
+<HEADLINE> TROPICAL DEPRESSION UPGRADED TO TROPICAL STORM</HEADLINE>
+<SUBJECT> BC-USA-STORM </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES>(Eds: New throughout)</NOTES>
+<DATELINE>CORAL GABLES, Fla (Reuter) </DATELINE>
+<P>  The season's first tropical depression was upgraded to tropical storm status Friday afternoon, as its maximum sustained winds reached 40 mph, the National Weather Service said. </P>
+<P> Tropical Storm Alberto was moving northwest into the open waters of the central Gulf of Mexico at a rate near seven miles per hour, with tropical storm force winds extending outward up to 85 miles from the center. </P>
+<P> Forecasters said some additional strengthening was possible over the next 24 hours. </P>
+<P> They said the storm posed no threat to any land mass Friday evening. The Mexican government had dropped a tropical storm warning earlier Friday after the depression shifted its direction to a slightly more northerly path. </P>
+<P> At 4:30 p.m. EDT, the storm was located in the Gulf of Mexico about 425 miles south-southeast of the mouth of the Mississippi River. </P>
+<P> Tropical depressions are upgraded to Tropical Storms when they reach 39 miles per hour. </P>
+<P> The depression formed off the western coast of Cuba on Thursday, dumping up to 10 inches of rain on the Caribbean nation. </P>
+</TEXT>
+</DOC>

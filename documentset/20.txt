@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU001-0230.940702</DOCID>
+<TDTID>TDT000045</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/02/94 04:08</DATE>
+<TITLE> THREE SHOT DEAD IN S AFRICAN TOWNSHIP - WITNESS</TITLE>
+<HEADLINE> THREE SHOT DEAD IN S AFRICAN TOWNSHIP - WITNESS</HEADLINE>
+<SUBJECT> BC-SAFRICA-SHOOTING </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>JOHANNESBURG (Reuter) </DATELINE>
+<P>  At least three blacks were shot and killed Saturday in a township east of Johannesburg, a witness said. </P>
+<P> The witness, Joseph Chatatso, told reporters men from a migrant workers hostel in Tokoza walked into a house nearby and killed the three in their sleep. </P>
+<P> The hostel is a stronghold for the Inkatha Freedom Party which has waged a decade-long feud with the African National Congress of Nelson Mandela. </P>
+<P> The shooting took place near the scene of a similar attack a week ago in which four people were killed. </P>
+<P> Police could not immediately confirm the killing but said there had been shooting in the township. </P>
+</TEXT>
+</DOC>

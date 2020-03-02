@@ -1,0 +1,27 @@
+<DOC>
+<DOCID>REU001-0125.940701</DOCID>
+<TDTID>TDT000023</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/01/94 13:55</DATE>
+<TITLE> SENATE APPROVES B-2 HOLDING MONEY</TITLE>
+<HEADLINE> SENATE APPROVES B-2 HOLDING MONEY</HEADLINE>
+<SUBJECT> BC-USA-BOMBER 1STLD </SUBJECT>
+<AUTHOR>     By Jim Adams </AUTHOR>
+<TEXT>
+<NOTES>(Eds: Adds details, background)</NOTES>
+<DATELINE>WASHINGTON (Reuter) </DATELINE>
+<P>  The Senate Friday approved $150 million to keep alive the option of building more of the costly B-2 stealth bombers than the 20 now planned. </P>
+<P> The Senate approved the money 55-45 in a $263 billion defense authorization bill. The plane is built by Northrop Corp. </P>
+<P> Supporters of the plane led by Senate Armed Services Committee Chairman Sam Nunn, a Georgia Democrat, said suppliers should be kept in place in case the Defense Department and Congress decide to build more than 20 B-2s. </P>
+<P> Opponents said Defense Secretary William Perry does not want the $150 million because the Pentagon cannot afford to build more B-2 bombers at the expense of other defenses. </P>
+<P> After years of battle, opponents won a congressional declaration last year that no more than 20 of the planes will ever be built, primarily because of the $44 billion cost, $2.2 billion per plane. </P>
+<P> The sleek black radar-evading bomber is designed to attack enemy targets virtually unseen by radar defenses. </P>
+<P> Nunn said he believed the Defense Department might agree as early as next year that more B-2 bombers are needed because they could fly from the United States and bomb enemy targets any place in the world in the first hours of a war. </P>
+<P> He said Northrop could build an additional 20 B-2 bombers for $12 billion. </P>
+<P> But Senator Carl Levin, a Michigan Democrat, who led the fight against the $150 million holding money, said both Perry and Deputy Defense Secretary John Deutch had told Congress that the budget-strapped Defense Department could not afford to build more B-2s without scapping some other weapon. </P>
+<P> ``They say they don't want it. They say they can't afford it,'' Levin told the Senate. </P>
+<P> Senator Kay Bailey Hutchison, a Texas Republican, said the $150 million would have been used to keep suppliers who have finished their B-2 work in business for another year, improve some of the plane's components and pay for spare parts now that eventually would be needed in any case for present B-2s. </P>
+<P> Levin replied that lack of need for more B-2s has not changed and said the only change is that some of the subcontractor suppliers were trying to stay in business. </P>
+<P> ``This B-2 program is like the Energizer bunny -- it just keeps going and going and going,'' Levin said. </P>
+</TEXT>
+</DOC>

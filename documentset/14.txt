@@ -1,0 +1,18 @@
+<DOC>
+<DOCID>REU001-0168.940701</DOCID>
+<TDTID>TDT000031</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/01/94 17:15</DATE>
+<TITLE></TITLE>
+<HEADLINE></HEADLINE>
+<SUBJECT> BC-RWANDA-UN -2 UNITED NATIONS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE></DATELINE>
+<P> This commission is to collect and analyze information and submit its conclusions within four months. The measure asks states, U.N. bodies and other groups to submit documentation within 30 days. </P>
+<P> The resolution is similar to the one adopted in October 1992 on the former Yugoslavia, which eventually led to establishment of a war crimes tribunal against individuals responsible for the crimes, especially in Bosnia. </P>
+<P> The Rwanda resolution was softened a bit from Spain's earlier draft and does not mention individuals. But speaker after speaker said the United Nations should ensure that those persons responsible for war crimes be brought to justice. </P>
+<P> Secretary-General Boutros Boutros-Ghali, in a recent report on the mass killings in Rwanda, said the death toll had been estimated at between 250,000 and 500,000 and that ``there can be little doubt that it constitutes genocide.'' </P>
+</TEXT>
+</DOC>

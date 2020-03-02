@@ -1,0 +1,32 @@
+<DOC>
+<DOCID>REU001-0207.940701</DOCID>
+<TDTID>TDT000042</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/01/94 22:59</DATE>
+<TITLE> CALIFORNIA MAKES PROGRESS, BUT STILL NO BUDGET</TITLE>
+<HEADLINE> CALIFORNIA MAKES PROGRESS, BUT STILL NO BUDGET</HEADLINE>
+<SUBJECT> BC-USA-CALIFORNIA </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>SACRAMENTO, Calif (Reuter) </DATELINE>
+<P>  California took some steps to put its financial house in order Friday, but still had no budget at the end of the first day of the new fiscal year. </P>
+<P> State legislators were set to work into the long holiday weekend to try to pass a budget and avert the threat of California having to pay its bills with IOUs. </P>
+<P> The budget crisis has become almost an annual ritual in California, struggling to tighten its belt to cope with the state's deepest recession since the 1930s Depression. </P>
+<P> Both houses of the Democratic-controlled state legislature overwhelmingly passed a ``trigger'' bill Friday which calls for automatic cuts in spending if revenues fall below projections over the next two years. </P>
+<P> Governor Pete Wilson, a Republican, quickly signed the bill, which a consortium of banks was demanding as a condition for guaranteeing $7 billion of short-term debt which California plans to issue in the coming fiscal year. </P>
+<P> But there was no action on the state budget itself, even though the 1994/95 fiscal year began Friday. </P>
+<P> Several officials have warned that if the budget deadlock drags on much longer the state could be forced to issue IOUs as it did during the budget crisis of 1992. </P>
+<P> The state Senate has already passed a $58.7 billion budget, but it failed to win the required two-thirds majority in the other house, the Assembly, earlier this week. </P>
+<P> Behind-the-scenes negotiations were going on to try to resolve remaining problems with the budget, which revolved around what and how much to cut. </P>
+<P> The Senate version includes a 2.3 percent cut in welfare spending and a 10 percent fee increase for students at state universities. </P>
+<P> The Assembly was due to return to work Saturday morning to try to pass a budget. ``I don't intend to leave the Capitol until we produce a budget,'' Assembly Speaker Willie Brown, a powerful Democrat, said. </P>
+<P> Wilson said passage of the ``trigger'' bill sent a signal that ``California is serious about its financial commitments.'' </P>
+<P> But Senate President Bill Lockyer, a Democrat, said: ``The unpleasant fact is that the state of California is mired in debt, has expenditures spiraling out of control and insufficient leadership and discipline to do something about that.'' </P>
+<P> Many of the obstacles to passing a budget were overcome in meetings between Wilson and Republican and Democratic leaders from each house, which ended in the early hours of Friday. </P>
+<P> Democrats agreed to drop demands that the ``trigger'' bill include tax increases on the wealthy if revenues fell short. </P>
+<P> Under the ``trigger'' bill which was passed, and which will be in force this fiscal year and next, state officials will review California's finances November 15 and estimate the state's financial position at the end of the fiscal year. </P>
+<P> If they believe the end-year balance will be more than $430 million lower than estimated in the budget, the gap must be closed in some way. </P>
+<P> If the legislature fails to act by February 15, the law would trigger automatic across-the-board spending cuts except in exempted areas like schools and debt service. </P>
+</TEXT>
+</DOC>

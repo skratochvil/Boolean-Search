@@ -1,0 +1,19 @@
+<DOC>
+<DOCID>REU001-0099.940701</DOCID>
+<TDTID>TDT000020</TDTID>
+<SOURCE>REUTERS</SOURCE>
+<DATE>07/01/94 12:44</DATE>
+<TITLE> STUDY SHOWS CASUAL DRESS BOOSTS MORALE</TITLE>
+<HEADLINE> STUDY SHOWS CASUAL DRESS BOOSTS MORALE</HEADLINE>
+<SUBJECT> BC-USA-DRESS </SUBJECT>
+<AUTHOR></AUTHOR>
+<TEXT>
+<NOTES></NOTES>
+<DATELINE>NEW YORK (Reuter) </DATELINE>
+<P>  U.S. companies spend a lot of money trying to figure out how to boost morale, but a study shows they could save big bucks by letting workers wear jeans. </P>
+<P> The nationwide survey of white-collar workers found that 81 percent of respondents agree that allowing casual dress improves morale and 47 percent believe it improves productivity. Only 4 percent believe it has a negative impact. </P>
+<P> The telephone survey of 750 employees was conducted by Campbell Research Inc and commissioned by Levi Strauss & Co. A majority of respondents, 96 percent, said they take advantage of opportunities to dress casually and 65 percent said senior managers in their companies participate in casual dress days. </P>
+<P> More than half, 59 percent, said acceptance of casual dress in their offices began within the past five years. Eighty-four percent said jeans were acceptable in their offices. </P>
+<P> Asked if a casual dress policy could influence their decision in accepting a job offer with all other factors being equal, 46 percent said it would. </P>
+</TEXT>
+</DOC>
